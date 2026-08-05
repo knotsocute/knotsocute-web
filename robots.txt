@@ -1,7 +1,18 @@
 User-Agent: *
 Allow: /
 Disallow: /admin
+Disallow: /admin/
 Disallow: /account
+Disallow: /account/
+Disallow: /cart
+Disallow: /cart/
 Disallow: /checkout
+Disallow: /checkout/
+Disallow: /wishlist
+Disallow: /wishlist/
+Disallow: /login
+Disallow: /login/
+Disallow: /signup
+Disallow: /signup/
 
 Sitemap: https://knotsocute.github.io/knotsocute-web/sitemap.xml
