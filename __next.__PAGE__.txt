@@ -1,26 +1,162 @@
 1:"$Sreact.fragment"
 2:I[48700,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"Hero"]
-3:I[68445,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"StudioSelection"]
-4:I[53718,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"StorySection"]
-5:I[15761,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"InstagramGrid"]
-6:I[27476,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"CtaSection"]
-7:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"OutletBoundary"]
-8:"$Sreact.suspense"
-c:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"ViewportBoundary"]
-d:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"MetadataBoundary"]
-b:X
-0:{"buildId":"pZTXuBQ1wRhYv7V_iYT4T","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","div",null,{"className":"relative overflow-hidden py-6 border-y border-border/60 bg-cream-100/40","children":["$","div",null,{"className":"flex gap-12 whitespace-nowrap","style":{"animation":"marquee 40s linear infinite"},"children":[["$","span","0",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Small batch",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","1",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Hand crocheted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","2",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Natural fibers",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","3",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Slow made",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","4",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["India-crafted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","5",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Cash on delivery",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","6",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Small batch",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","7",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Hand crocheted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","8",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Natural fibers",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","9",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Slow made",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","10",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["India-crafted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","11",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Cash on delivery",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}]]}]}],["$","$L3",null,{"products":[]}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]],[["$","script","script-0",{"src":"/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lc",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KnotSoCute — Handcrafted with Sunshine"}],["$","meta","1",{"name":"description","content":"A small-batch studio for crochet, macramé, and slow-made home goods. Every knot woven by hand in golden-hour light."}],["$","meta","2",{"name":"keywords","content":"handmade,crochet,macramé,knit,handcrafted,slow made,artisan,home decor"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://knotsocute.github.io/knotsocute-web/"}],["$","meta","5",{"name":"google-site-verification","content":"KQ_fL4hrxEFXTd_keOMO8wed58k5xfxAY6UsS6Qu8PA"}],["$","meta","6",{"property":"og:title","content":"KnotSoCute"}],["$","meta","7",{"property":"og:description","content":"Handcrafted crochet and slow-made pieces, woven by hand in golden-hour light."}],["$","meta","8",{"property":"og:site_name","content":"KnotSoCute"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],"$Le","$Lf","$L10","$L11","$L12"]}]}]}],"$L13"]}],"isPartial":"$@14","staleTime":"$b","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
-17:I[27201,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"IconMark"]
-9:null
-e:["$","meta","11",{"name":"twitter:title","content":"KnotSoCute"}]
-f:["$","meta","12",{"name":"twitter:description","content":"Handcrafted crochet and slow-made pieces, woven by hand in golden-hour light."}]
-10:["$","link","13",{"rel":"icon","href":"/knotsocute-web/icon.png?icon.2j1ozgtj-8jo_.png","sizes":"192x192","type":"image/png"}]
-11:["$","link","14",{"rel":"apple-touch-icon","href":"/knotsocute-web/apple-icon.png?apple-icon.1vjfbhnd4atqv.png","sizes":"180x180","type":"image/png"}]
-12:["$","$L17","15",{}]
-13:["$","meta",null,{"name":"next-size-adjust","content":""}]
-16:true
-b:300
-b:C
-15:0
-14:"$undefined"
-a:"$undefined"
+c:X
+0:{"buildId":"acRyWLhnXKIwxQal_OFVp","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"featured":{"id":"-P-scEJk4YooMlRGg_DJ","category":"Beach bags","createdAt":1787656467946,"currency":"INR","description":"Bring a touch of coastal elegance to your outfit with this beautifully handcrafted Crochet Shell Bag. Designed with a distinctive spiral shell shape and detailed raised crochet texture, this bag is a unique statement accessory for anyone who loves handmade fashion.\n\nThe soft blush-pink tone gives the bag a feminine and premium appearance, while the long crocheted strap makes it comfortable to carry as a shoulder bag. Its sculptural seashell-inspired design makes it especially beautiful for summer outfits, beach vacations, resort wear, brunch dates, festivals, and casual everyday styling.\n\n✨ PRODUCT DETAILS\n\n• Handmade crochet shell-shaped bag\n• Beautiful 3D seashell-inspired design\n• Detailed textured crochet pattern\n• Long crocheted shoulder strap\n• Lightweight and comfortable to carry\n• Soft and stylish handmade finish\n• Suitable for small everyday essentials\n• Each piece is individually handcrafted","featured":true,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787656329/knot-so-cute/products/npjegotjk8wypvx8nv5z.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787656330/knot-so-cute/products/ew0jas7wvckf1kllpprm.png"],"name":"AUGER SHELL BAG","price":1300,"shortDescription":"Handmade Crochet Shell Bag – Unique Seashell Shoulder Bag","slug":"auger-shell-bag","stock":5,"tags":["summer shoulder bag"]}}],["$","div",null,{"className":"relative overflow-hidden py-6 border-y border-border/60 bg-cream-100/40","children":["$","div",null,{"className":"flex gap-12 whitespace-nowrap","style":{"animation":"marquee 40s linear infinite"},"children":[["$","span","0",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Small batch",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","1",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Hand crocheted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","2",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Natural fibers",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","3",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Slow made",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","4",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["India-crafted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","5",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Cash on delivery",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","6",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Small batch",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","7",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Hand crocheted",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","8",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Natural fibers",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","9",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Slow made",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}],["$","span","10",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["India-crafted","$L3"]}],"$L4"]}]}],"$L5","$L6","$L7","$L8"],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[68445,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"StudioSelection"]
+17:I[53718,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"StorySection"]
+18:I[15761,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"InstagramGrid"]
+19:I[27476,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js"],"CtaSection"]
+1a:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"ViewportBoundary"]
+1e:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"MetadataBoundary"]
+1f:I[27201,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"IconMark"]
+3:["$","span",null,{"className":"text-clay-500","children":"✦"}]
+4:["$","span","11",{"className":"font-serif text-2xl md:text-3xl text-ink-400 flex items-center gap-12","children":["Cash on delivery",["$","span",null,{"className":"text-clay-500","children":"✦"}]]}]
+12:T698,Add effortless handmade elegance to your wardrobe with this beautiful white crochet shoulder bag. Featuring a soft scalloped silhouette, chunky textured stitches, and a handcrafted crochet strap, this bag offers a stylish combination of modern fashion and traditional crochet craftsmanship.
+
+The elegant neutral color makes it easy to pair with almost any outfit, while the decorative side ties and metal strap attachments add a refined finishing touch. Perfect for summer outings, beach vacations, brunch dates, parties, bridal events, holidays, and everyday styling.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Soft white / ivory tone
+• Beautiful scalloped bottom design
+• Chunky textured crochet pattern
+• Hand-crocheted shoulder strap
+• Decorative side tie details
+• Metal strap attachments
+• Soft, lightweight and comfortable to carry
+• Elegant handmade statement accessory
+
+🎨 CUSTOMIZATION AVAILABLE
+
+This bag can be customized in different colors and sizes upon request. Contact us for your preferred color or other customization requirements.
+
+🎁 PERFECT FOR
+
+Bridal Gift • Bridesmaid Gift • Birthday Gift • Gift for Her • Beach Vacation • Resort Wear • Brunch • Date Night • Summer Outfits • Parties • Handmade Fashion Lovers
+
+🧶 UNIQUELY HANDMADE
+
+Each bag is carefully crocheted by hand, meaning slight variations in stitching, shape, texture, and measurements may occur. These variations are part of authentic handmade craftsmanship and make every bag beautifully unique.
+
+A timeless yet trendy accessory, this crochet scallop shoulder bag is perfect for adding texture, elegance, and handmade charm to your outfit. 🤍✨13:T661,Elevate your everyday style with this beautiful handmade crochet shoulder bag, featuring a vibrant blue shade, chunky textured stitching, and an elegant structured silhouette. The raised vertical crochet detailing gives the bag a distinctive handcrafted look, while the braided crochet strap adds a stylish finishing touch.
+
+Designed with metal strap attachments for a polished appearance, this bag is a beautiful combination of modern fashion and traditional crochet craftsmanship. Perfect for brunch dates, shopping, vacations, parties, casual outings, and everyday styling.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Vibrant blue color
+• Chunky textured crochet pattern
+• Raised vertical stitch detailing
+• Hand-crocheted shoulder strap
+• Metal strap attachments
+• Soft yet structured design
+• Lightweight and comfortable to carry
+• Carefully handcrafted with attention to detail
+
+🎨 CUSTOMIZATION AVAILABLE
+
+The bag can be made in different colors according to your preference. Size and strap customization may also be available upon request.
+
+🎁 PERFECT FOR
+
+Birthday Gifts • Gifts for Her • Brunch Dates • Vacation • Shopping • Parties • Summer Fashion • Casual Outings • Crochet Lovers • Handmade Fashion Lovers
+
+🧶 HANDMADE WITH LOVE
+
+Every bag is individually handcrafted, so slight variations in stitching, shape, texture, and measurements may occur. These small differences make every piece beautifully unique.
+
+A stylish choice for anyone who loves trendy handmade accessories, this chunky crochet shoulder bag brings texture, color, and character to any outfit. 💙✨14:T463,Add a soft and playful touch to your outfit with this beautiful Handmade Pink Crochet Bag. Crafted with thick yarn and bold chunky stitches, this mini handbag features a modern textured design with a convenient built-in crochet handle.
+
+The pastel pink shade gives it a feminine, trendy, and charming appearance, making it a lovely statement accessory for brunch dates, parties, vacations, summer outings, casual occasions, and special events.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Beautiful pastel pink color
+• Thick and chunky crochet texture
+• Built-in handcrafted handle
+• Compact and stylish silhouette
+• Soft and lightweight construction
+• Modern minimalist design
+• Handmade with attention to detail
+
+🎨 CUSTOMIZATION AVAILABLE
+
+Want another color? This bag can be customized in different colors according to your preference. Size customization may also be available upon request.
+
+🎁 PERFECT FOR
+
+Birthday Gift • Gift for Her • Bridesmaid Gift • Date Night • Brunch • Vacation • Summer Fashion • Parties • Everyday Styling • Crochet Lovers
+
+🧶 UNIQUELY HANDMADE15:T64a,Make a bold handmade statement with this beautiful Chunky Crochet Handbag, featuring a rich blue color, thick textured stitches, and a stylish relaxed silhouette. The sculptural crochet pattern gives the bag a modern, premium look while maintaining the charm of traditional handmade craftsmanship.
+
+Designed with a comfortable integrated crochet handle, this bag is perfect for casual outings, brunch dates, shopping, vacations, summer styling, and everyday use. Its distinctive chunky texture makes it an eye-catching accessory for minimalist, boho, and contemporary outfits.
+
+✨ PRODUCT DETAILS
+
+• Handmade crochet handbag
+• Chunky textured crochet design
+• Rich blue color
+• Stylish hobo-style silhouette
+• Comfortable handcrafted handle
+• Soft and flexible construction
+• Modern statement accessory
+• Carefully handcrafted with attention to detail
+
+🎨 CUSTOMIZATION
+
+This bag can be made in different colors and sizes upon request, allowing you to create a piece that perfectly matches your personal style.
+
+🎁 PERFECT FOR
+
+Birthday Gifts • Gifts for Her • Everyday Wear • Brunch • Shopping • Vacation • Summer Outfits • Boho Fashion • Handmade Fashion Lovers
+
+🧶 HANDMADE WITH CARE
+
+Each bag is individually handmade, so slight variations in stitching, shape, texture, and measurements may occur. These natural variations are part of the beauty of handmade crochet and make every bag unique.
+
+A perfect combination of modern style, chunky texture, and handmade craftsmanship, this crochet bag is designed to become a standout piece in your accessory collection. 💙16:T62d,Add a romantic handmade touch to your outfit with this beautiful Crochet Floral Handbag, featuring detailed 3D crochet flowers and delicate pearl accents. The sculptural floral design combined with the chunky crochet handle creates a charming, feminine, and luxurious look.
+
+Perfect as a statement handbag for weddings, parties, brunch dates, vacations, birthdays, bridal events, and special occasions. Its unique handcrafted design also makes it a beautiful gift for anyone who loves crochet and handmade fashion.
+
+✨ PRODUCT DETAILS
+
+• Handmade crochet handbag
+• Beautiful 3D crochet floral design
+• Decorated with elegant pearl-style beads
+• Strong handcrafted top handle
+• Soft and textured finish
+• Lightweight and comfortable to carry
+• Unique statement bag
+• Carefully handmade with attention to detail
+
+🎨 CUSTOMIZATION
+
+Different colors can be made upon request. Custom size and other design variations may also be available. Please contact us before ordering for personalized requirements.
+
+🎁 PERFECT FOR
+
+Wedding Guest • Bridal Events • Bridesmaid Gift • Birthday Gift • Anniversary Gift • Date Night • Brunch • Vacation • Parties • Summer Outfits • Gift for Her
+
+🧶 HANDMADE WITH CARE
+
+Every bag is individually crocheted by hand, making each piece truly unique. Slight variations in stitching, shape, size, and pearl placement are natural characteristics of handmade products.
+
+Carry something special with this elegant crochet flower handbag, where traditional crochet craftsmanship meets modern statement fashion. 🌸🤍5:["$","$L11",null,{"products":[{"id":"-P-sgIIbtFvn57ZKOgYM","category":"Casual bag","createdAt":1787657532797,"currency":"INR","description":"$12","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657469/knot-so-cute/products/t0n6om6jzetjyo0jkizi.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657469/knot-so-cute/products/mqtrhrcgwm2wk6eevr4l.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657495/knot-so-cute/products/k72oraxbsn75gqdvun8i.png"],"name":"LILAC MUSE","price":1400,"shortDescription":"🤍 Handmade White Crochet Shoulder Bag – Elegant Scalloped Crochet Handbag","slug":"lilac-muse","stock":5,"tags":["CROCHETBAG"]},{"id":"-P-sffuaf4iVqob9JPB7","category":"Casual bag","createdAt":1787657371488,"currency":"INR","description":"$13","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657347/knot-so-cute/products/jslxvi1wnm8l9q4esiun.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657352/knot-so-cute/products/piesi6yquhfzap2sifcf.png","https://res.cloudinary.com/koqs64ot/image/upload/v1787657353/knot-so-cute/products/ctmjv7pzbt1z5jzqlutb.png"],"name":"BLUE MUSE","price":1200,"shortDescription":"💙 Handmade Blue Crochet Shoulder Bag – Chunky Textured Handbag","slug":"blue-muse","stock":5,"tags":["BLUECROCHETBAG"]},{"id":"-P-seqbLlpGcPrtch-me","category":"Casual bag","createdAt":1787657153168,"currency":"INR","description":"$14","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657102/knot-so-cute/products/iaqfsrhvbqussu21udqx.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657115/knot-so-cute/products/rqxyt988lgone8o78svr.png"],"name":"MARSHMALLOW","price":1200,"shortDescription":"🩷 Handmade Pink Chunky Crochet Bag – Mini Crochet Handbag","slug":"marshmallow","stock":5,"tags":["PINKCROCHETBAG"]},{"id":"-P-se6AM0vyiUioBdIIC","category":"Casual bag","createdAt":1787656958865,"currency":"INR","description":"$15","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787656907/knot-so-cute/products/rbq5mivrqmutsycsenvn.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787656921/knot-so-cute/products/cpyqa9qbubdnfsfuboxb.png"],"name":"MIDNIGHT BLUE","price":1200,"shortDescription":"💙 Handmade Chunky Crochet Bag – Blue Textured Hobo Handbag","slug":"midnight-blue","stock":5,"tags":["BLUECROCHETBAG"]},{"id":"-P-sdRWykz2uKG2fsZ7A","category":"Beach bags","createdAt":1787656784184,"currency":"INR","description":"$16","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787656741/knot-so-cute/products/q0uz1mjtk74n1xrounj7.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787656741/knot-so-cute/products/fojhmjr9oaosus2leyxm.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787656743/knot-so-cute/products/brjnekoewxxo4chgypke.png"],"name":"SCLLOP SHELL BAG","price":1000,"shortDescription":"Handmade Crochet Floral Bag with Pearls – Elegant Crochet Handbag","slug":"scllop-shell-bag","stock":5,"tags":["floral crochet bag"]},"$0:data:0:rsc:props:children:0:0:props:featured",{"id":"-P-sbQL38sucmeec-VeB","category":"Beach bags","createdAt":1787656255038,"currency":"INR","description":"🐚 Handmade Crochet Shell Bag – Coastal Elegance, Handcrafted with Love\n\nAdd a touch of seaside charm to your style with this beautifully handcrafted Crochet Shell Bag. Inspired by the natural beauty and graceful shape of seashells, this bag features an eye-catching textured crochet pattern with a premium handmade finish.\n\nDesigned to be both stylish and functional, this shell-shaped bag is perfect for beach vacations, summer outings, brunch dates, holidays, resort wear, and everyday styling. Its unique design makes it a beautiful statement accessory and a thoughtful handmade gift.Beach vacations, summer outfits, resort wear, brunch dates, holiday styling, birthday gifts, gifts for her, and anyone who loves unique handmade accessories.","featured":true,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787656572/knot-so-cute/products/xaypiee40xbhwdaeqxsy.png","https://res.cloudinary.com/koqs64ot/image/upload/v1787656576/knot-so-cute/products/vxjbpzpwkdmfpf7moos9.png","https://res.cloudinary.com/koqs64ot/image/upload/v1787656570/knot-so-cute/products/nvvkmfapmvs43hra9mos.png"],"name":"SHELL BAG","price":1500,"shortDescription":"inspired by the elegance of seashells","slug":"shell-bag","stock":5,"tags":["crochet shell bag"]}]}]
+6:["$","$L17",null,{}]
+7:["$","$L18",null,{}]
+8:["$","$L19",null,{}]
+9:["$","script","script-0",{"src":"/knotsocute-web/_next/static/chunks/0uz0to9z8wg6-.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KnotSoCute — Handcrafted with Sunshine"}],["$","meta","1",{"name":"description","content":"A small-batch studio for crochet, macramé, and slow-made home goods. Every knot woven by hand in golden-hour light."}],["$","meta","2",{"name":"keywords","content":"handmade,crochet,macramé,knit,handcrafted,slow made,artisan,home decor"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://knotsocute.github.io/knotsocute-web/"}],["$","meta","5",{"name":"google-site-verification","content":"KQ_fL4hrxEFXTd_keOMO8wed58k5xfxAY6UsS6Qu8PA"}],["$","meta","6",{"property":"og:title","content":"KnotSoCute"}],["$","meta","7",{"property":"og:description","content":"Handcrafted crochet and slow-made pieces, woven by hand in golden-hour light."}],["$","meta","8",{"property":"og:site_name","content":"KnotSoCute"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"KnotSoCute"}],["$","meta","12",{"name":"twitter:description","content":"Handcrafted crochet and slow-made pieces, woven by hand in golden-hour light."}],["$","link","13",{"rel":"icon","href":"/knotsocute-web/icon.png?icon.2j1ozgtj-8jo_.png","sizes":"192x192","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/knotsocute-web/apple-icon.png?apple-icon.1vjfbhnd4atqv.png","sizes":"180x180","type":"image/png"}],["$","$L1f","15",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:true
+1c:null
+c:300
+c:C
+f:0
+e:"$undefined"
+b:"$undefined"

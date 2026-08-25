@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+3:I[67366,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"TrackViewed"]
+2:T640,{"@context":"https://schema.org","@type":"Product","name":"MARSHMALLOW","description":"Add a soft and playful touch to your outfit with this beautiful Handmade Pink Crochet Bag. Crafted with thick yarn and bold chunky stitches, this mini handbag features a modern textured design with a convenient built-in crochet handle.\n\nThe pastel pink shade gives it a feminine, trendy, and charming appearance, making it a lovely statement accessory for brunch dates, parties, vacations, summer outings, casual occasions, and special events.\n\n✨ PRODUCT DETAILS\n\n• 100% handmade crochet bag\n• Beautiful pastel pink color\n• Thick and chunky crochet texture\n• Built-in handcrafted handle\n• Compact and stylish silhouette\n• Soft and lightweight construction\n• Modern minimalist design\n• Handmade with attention to detail\n\n🎨 CUSTOMIZATION AVAILABLE\n\nWant another color? This bag can be customized in different colors according to your preference. Size customization may also be available upon request.\n\n🎁 PERFECT FOR\n\nBirthday Gift • Gift for Her • Bridesmaid Gift • Date Night • Brunch • Vacation • Summer Fashion • Parties • Everyday Styling • Crochet Lovers\n\n🧶 UNIQUELY HANDMADE","image":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657102/knot-so-cute/products/iaqfsrhvbqussu21udqx.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657115/knot-so-cute/products/rqxyt988lgone8o78svr.png"],"sku":"-P-seqbLlpGcPrtch-me","offers":{"@type":"Offer","priceCurrency":"INR","price":1200,"availability":"https://schema.org/InStock"}}4:T463,Add a soft and playful touch to your outfit with this beautiful Handmade Pink Crochet Bag. Crafted with thick yarn and bold chunky stitches, this mini handbag features a modern textured design with a convenient built-in crochet handle.
+
+The pastel pink shade gives it a feminine, trendy, and charming appearance, making it a lovely statement accessory for brunch dates, parties, vacations, summer outings, casual occasions, and special events.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Beautiful pastel pink color
+• Thick and chunky crochet texture
+• Built-in handcrafted handle
+• Compact and stylish silhouette
+• Soft and lightweight construction
+• Modern minimalist design
+• Handmade with attention to detail
+
+🎨 CUSTOMIZATION AVAILABLE
+
+Want another color? This bag can be customized in different colors according to your preference. Size customization may also be available upon request.
+
+🎁 PERFECT FOR
+
+Birthday Gift • Gift for Her • Bridesmaid Gift • Date Night • Brunch • Vacation • Summer Fashion • Parties • Everyday Styling • Crochet Lovers
+
+🧶 UNIQUELY HANDMADE9:X
+e:X
+e:C
+0:{"buildId":"acRyWLhnXKIwxQal_OFVp","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"product":{"id":"-P-seqbLlpGcPrtch-me","category":"Casual bag","createdAt":1787657153168,"currency":"INR","description":"$4","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657102/knot-so-cute/products/iaqfsrhvbqussu21udqx.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657115/knot-so-cute/products/rqxyt988lgone8o78svr.png"],"name":"MARSHMALLOW","price":1200,"shortDescription":"🩷 Handmade Pink Chunky Crochet Bag – Mini Crochet Handbag","slug":"marshmallow","stock":5,"tags":["PINKCROCHETBAG"]}}],["$","div",null,{"className":"pt-6 pb-16","children":"$L5"}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[22016,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],""]
+14:I[5014,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"default"]
+15:I[49005,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"Reveal"]
+16:I[33460,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"ProductGallery"]
+18:I[94336,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"AddToCartControls"]
+19:I[65503,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"ReviewsSection"]
+1a:I[49005,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"Stagger"]
+1b:I[42129,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js","/knotsocute-web/_next/static/chunks/1amj_1enkstip.js"],"ProductCard"]
+1f:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"ViewportBoundary"]
+23:I[97367,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"MetadataBoundary"]
+24:I[27201,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"IconMark"]
+25:I[39756,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"default"]
+26:I[37457,["/knotsocute-web/_next/static/chunks/1obbt-t0csijs.js","/knotsocute-web/_next/static/chunks/3ct7yam3kp7mp.js","/knotsocute-web/_next/static/chunks/0i1mjajaa9zck.js","/knotsocute-web/_next/static/chunks/3dlbk_ecv26-r.js","/knotsocute-web/_next/static/chunks/2qj1zuyvd_pzm.js","/knotsocute-web/_next/static/chunks/2lddg6nrqouw6.js"],"default"]
+17:T463,Add a soft and playful touch to your outfit with this beautiful Handmade Pink Crochet Bag. Crafted with thick yarn and bold chunky stitches, this mini handbag features a modern textured design with a convenient built-in crochet handle.
+
+The pastel pink shade gives it a feminine, trendy, and charming appearance, making it a lovely statement accessory for brunch dates, parties, vacations, summer outings, casual occasions, and special events.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Beautiful pastel pink color
+• Thick and chunky crochet texture
+• Built-in handcrafted handle
+• Compact and stylish silhouette
+• Soft and lightweight construction
+• Modern minimalist design
+• Handmade with attention to detail
+
+🎨 CUSTOMIZATION AVAILABLE
+
+Want another color? This bag can be customized in different colors according to your preference. Size customization may also be available upon request.
+
+🎁 PERFECT FOR
+
+Birthday Gift • Gift for Her • Bridesmaid Gift • Date Night • Brunch • Vacation • Summer Fashion • Parties • Everyday Styling • Crochet Lovers
+
+🧶 UNIQUELY HANDMADE1c:T698,Add effortless handmade elegance to your wardrobe with this beautiful white crochet shoulder bag. Featuring a soft scalloped silhouette, chunky textured stitches, and a handcrafted crochet strap, this bag offers a stylish combination of modern fashion and traditional crochet craftsmanship.
+
+The elegant neutral color makes it easy to pair with almost any outfit, while the decorative side ties and metal strap attachments add a refined finishing touch. Perfect for summer outings, beach vacations, brunch dates, parties, bridal events, holidays, and everyday styling.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Soft white / ivory tone
+• Beautiful scalloped bottom design
+• Chunky textured crochet pattern
+• Hand-crocheted shoulder strap
+• Decorative side tie details
+• Metal strap attachments
+• Soft, lightweight and comfortable to carry
+• Elegant handmade statement accessory
+
+🎨 CUSTOMIZATION AVAILABLE
+
+This bag can be customized in different colors and sizes upon request. Contact us for your preferred color or other customization requirements.
+
+🎁 PERFECT FOR
+
+Bridal Gift • Bridesmaid Gift • Birthday Gift • Gift for Her • Beach Vacation • Resort Wear • Brunch • Date Night • Summer Outfits • Parties • Handmade Fashion Lovers
+
+🧶 UNIQUELY HANDMADE
+
+Each bag is carefully crocheted by hand, meaning slight variations in stitching, shape, texture, and measurements may occur. These variations are part of authentic handmade craftsmanship and make every bag beautifully unique.
+
+A timeless yet trendy accessory, this crochet scallop shoulder bag is perfect for adding texture, elegance, and handmade charm to your outfit. 🤍✨5:["$","div",null,{"className":"mx-auto w-full px-6 md:px-10 max-w-7xl","children":[["$","$L13",null,{"href":"/shop","className":"inline-flex items-center gap-1 text-sm text-ink-400 hover:text-clay-500 mb-6","children":[["$","$L14",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left w-4 h-4"}]," Back to shop"]}],["$","div",null,{"className":"grid gap-10 md:grid-cols-2 md:gap-14","children":[["$","$L15",null,{"direction":"right","children":["$","$L16",null,{"images":"$0:data:0:rsc:props:children:0:1:props:product:images","name":"MARSHMALLOW"}]}],["$","div",null,{"className":"flex flex-col gap-6 md:pt-4","children":[["$","$L15",null,{"children":["$","div",null,{"className":"flex items-center gap-2 flex-wrap","children":[["$","span",null,{"className":"inline-flex items-center rounded-full px-3 py-1 text-xs font-medium tracking-wide uppercase border border-ink-500/20 text-ink-400","children":"Casual bag"}],[["$","span","PINKCROCHETBAG",{"className":"inline-flex items-center rounded-full px-3 py-1 text-xs font-medium tracking-wide uppercase bg-cream-200 text-ink-500","children":"PINKCROCHETBAG"}]]]}]}],["$","$L15",null,{"delay":0.1,"children":["$","h1",null,{"className":"font-serif text-4xl md:text-5xl leading-tight text-ink-500","children":"MARSHMALLOW"}]}],["$","$L15",null,{"delay":0.15,"children":["$","p",null,{"className":"font-serif text-2xl text-clay-500 tabular-nums","children":"₹1,200"}]}],["$","$L15",null,{"delay":0.2,"children":["$","p",null,{"className":"text-ink-400 leading-relaxed text-pretty","children":"$17"}]}],["$","$L15",null,{"delay":0.25,"children":["$","$L18",null,{"product":"$0:data:0:rsc:props:children:0:1:props:product"}]}],["$","$L15",null,{"delay":0.3,"children":["$","div",null,{"className":"mt-4 pt-6 border-t border-border/60 grid grid-cols-2 gap-4 text-sm text-ink-300","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-medium text-ink-500 mb-1","children":"Cash on delivery"}],["$","p",null,{"children":"Pay when it arrives. Available across India."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"font-medium text-ink-500 mb-1","children":"Hand-finished"}],["$","p",null,{"children":"Made in small batches. Ships in 3–5 days."}]]}]]}]}]]}]]}],["$","$L19",null,{"product":"$0:data:0:rsc:props:children:0:1:props:product"}],["$","section",null,{"className":"mt-24 md:mt-32","children":[["$","h2",null,{"className":"font-serif text-3xl md:text-4xl mb-8","children":"You might also love"}],["$","$L1a",null,{"className":"grid gap-6 md:gap-8 sm:grid-cols-2 md:grid-cols-3","children":[["$","$L1b","-P-sgIIbtFvn57ZKOgYM",{"product":{"id":"-P-sgIIbtFvn57ZKOgYM","category":"Casual bag","createdAt":1787657532797,"currency":"INR","description":"$1c","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657469/knot-so-cute/products/t0n6om6jzetjyo0jkizi.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657469/knot-so-cute/products/mqtrhrcgwm2wk6eevr4l.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657495/knot-so-cute/products/k72oraxbsn75gqdvun8i.png"],"name":"LILAC MUSE","price":1400,"shortDescription":"🤍 Handmade White Crochet Shoulder Bag – Elegant Scalloped Crochet Handbag","slug":"lilac-muse","stock":5,"tags":["CROCHETBAG"]}}],"$L1d","$L1e"]}]]}]]}]
+6:["$","script","script-0",{"src":"/knotsocute-web/_next/static/chunks/1amj_1enkstip.js","async":true}]
+7:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+a:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MARSHMALLOW · KnotSoCute"}],["$","meta","1",{"name":"description","content":"🩷 Handmade Pink Chunky Crochet Bag – Mini Crochet Handbag"}],["$","meta","2",{"name":"keywords","content":"handmade,crochet,macramé,knit,handcrafted,slow made,artisan,home decor"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://knotsocute.github.io/knotsocute-web/"}],["$","meta","5",{"name":"google-site-verification","content":"KQ_fL4hrxEFXTd_keOMO8wed58k5xfxAY6UsS6Qu8PA"}],["$","meta","6",{"property":"og:title","content":"MARSHMALLOW"}],["$","meta","7",{"property":"og:description","content":"🩷 Handmade Pink Chunky Crochet Bag – Mini Crochet Handbag"}],["$","meta","8",{"property":"og:image","content":"https://res.cloudinary.com/koqs64ot/image/upload/v1787657102/knot-so-cute/products/iaqfsrhvbqussu21udqx.jpg"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"KnotSoCute"}],["$","meta","11",{"name":"twitter:description","content":"Handcrafted crochet and slow-made pieces, woven by hand in golden-hour light."}],["$","meta","12",{"name":"twitter:image","content":"https://res.cloudinary.com/koqs64ot/image/upload/v1787657102/knot-so-cute/products/iaqfsrhvbqussu21udqx.jpg"}],["$","link","13",{"rel":"icon","href":"/knotsocute-web/favicon.ico?favicon.12vpyokyqhume.ico","sizes":"64x64","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/knotsocute-web/icon.png?icon.2j1ozgtj-8jo_.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/knotsocute-web/apple-icon.png?apple-icon.1vjfbhnd4atqv.png","sizes":"180x180","type":"image/png"}],["$","$L24","16",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+12:true
+27:T661,Elevate your everyday style with this beautiful handmade crochet shoulder bag, featuring a vibrant blue shade, chunky textured stitching, and an elegant structured silhouette. The raised vertical crochet detailing gives the bag a distinctive handcrafted look, while the braided crochet strap adds a stylish finishing touch.
+
+Designed with metal strap attachments for a polished appearance, this bag is a beautiful combination of modern fashion and traditional crochet craftsmanship. Perfect for brunch dates, shopping, vacations, parties, casual outings, and everyday styling.
+
+✨ PRODUCT DETAILS
+
+• 100% handmade crochet bag
+• Vibrant blue color
+• Chunky textured crochet pattern
+• Raised vertical stitch detailing
+• Hand-crocheted shoulder strap
+• Metal strap attachments
+• Soft yet structured design
+• Lightweight and comfortable to carry
+• Carefully handcrafted with attention to detail
+
+🎨 CUSTOMIZATION AVAILABLE
+
+The bag can be made in different colors according to your preference. Size and strap customization may also be available upon request.
+
+🎁 PERFECT FOR
+
+Birthday Gifts • Gifts for Her • Brunch Dates • Vacation • Shopping • Parties • Summer Fashion • Casual Outings • Crochet Lovers • Handmade Fashion Lovers
+
+🧶 HANDMADE WITH LOVE
+
+Every bag is individually handcrafted, so slight variations in stitching, shape, texture, and measurements may occur. These small differences make every piece beautifully unique.
+
+A stylish choice for anyone who loves trendy handmade accessories, this chunky crochet shoulder bag brings texture, color, and character to any outfit. 💙✨1d:["$","$L1b","-P-sffuaf4iVqob9JPB7",{"product":{"id":"-P-sffuaf4iVqob9JPB7","category":"Casual bag","createdAt":1787657371488,"currency":"INR","description":"$27","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787657347/knot-so-cute/products/jslxvi1wnm8l9q4esiun.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787657352/knot-so-cute/products/piesi6yquhfzap2sifcf.png","https://res.cloudinary.com/koqs64ot/image/upload/v1787657353/knot-so-cute/products/ctmjv7pzbt1z5jzqlutb.png"],"name":"BLUE MUSE","price":1200,"shortDescription":"💙 Handmade Blue Crochet Shoulder Bag – Chunky Textured Handbag","slug":"blue-muse","stock":5,"tags":["BLUECROCHETBAG"]}}]
+28:T64a,Make a bold handmade statement with this beautiful Chunky Crochet Handbag, featuring a rich blue color, thick textured stitches, and a stylish relaxed silhouette. The sculptural crochet pattern gives the bag a modern, premium look while maintaining the charm of traditional handmade craftsmanship.
+
+Designed with a comfortable integrated crochet handle, this bag is perfect for casual outings, brunch dates, shopping, vacations, summer styling, and everyday use. Its distinctive chunky texture makes it an eye-catching accessory for minimalist, boho, and contemporary outfits.
+
+✨ PRODUCT DETAILS
+
+• Handmade crochet handbag
+• Chunky textured crochet design
+• Rich blue color
+• Stylish hobo-style silhouette
+• Comfortable handcrafted handle
+• Soft and flexible construction
+• Modern statement accessory
+• Carefully handcrafted with attention to detail
+
+🎨 CUSTOMIZATION
+
+This bag can be made in different colors and sizes upon request, allowing you to create a piece that perfectly matches your personal style.
+
+🎁 PERFECT FOR
+
+Birthday Gifts • Gifts for Her • Everyday Wear • Brunch • Shopping • Vacation • Summer Outfits • Boho Fashion • Handmade Fashion Lovers
+
+🧶 HANDMADE WITH CARE
+
+Each bag is individually handmade, so slight variations in stitching, shape, texture, and measurements may occur. These natural variations are part of the beauty of handmade crochet and make every bag unique.
+
+A perfect combination of modern style, chunky texture, and handmade craftsmanship, this crochet bag is designed to become a standout piece in your accessory collection. 💙1e:["$","$L1b","-P-se6AM0vyiUioBdIIC",{"product":{"id":"-P-se6AM0vyiUioBdIIC","category":"Casual bag","createdAt":1787656958865,"currency":"INR","description":"$28","featured":false,"images":["https://res.cloudinary.com/koqs64ot/image/upload/v1787656907/knot-so-cute/products/rbq5mivrqmutsycsenvn.jpg","https://res.cloudinary.com/koqs64ot/image/upload/v1787656921/knot-so-cute/products/cpyqa9qbubdnfsfuboxb.png"],"name":"MIDNIGHT BLUE","price":1200,"shortDescription":"💙 Handmade Chunky Crochet Bag – Blue Textured Hobo Handbag","slug":"midnight-blue","stock":5,"tags":["BLUECROCHETBAG"]}}]
+21:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"
